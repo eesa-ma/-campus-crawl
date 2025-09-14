@@ -1,4 +1,3 @@
-import bgheader from '../assets/banner/bg.mp4';
 
 function Header() {
     return (
