@@ -2,12 +2,12 @@
 
 @font-face {
   font-family: 'Gistesy';
-  src: local('Gistesy'), url('/src/assets/font/Gistesy.ttf') format('truetype');
+  /* This is the only path that will work for your project structure */
+  src: url('./assets/fonts/Gistesy.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
-
 .gistesy-font {
-  font-family: 'Gistesy', sans-serif;
+  font-family: 'Gistesy', cursive;
 }
