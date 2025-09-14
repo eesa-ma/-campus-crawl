@@ -1,5 +1,5 @@
 
-import bannervideo from "../assets/banner/Campus Crwal.mp4"
+import bannervideo from "../assets/banner/Campus Crawl.mp4"
 
 function Videobanner() {
     return (
