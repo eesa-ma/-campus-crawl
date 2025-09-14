@@ -2,12 +2,33 @@
 
 @font-face {
   font-family: 'Gistesy';
-  /* This is the only path that will work for your project structure */
   src: url('./assets/fonts/Gistesy.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PlayfairDisplay';
+  src: url('./assets/fonts/PlayfairDisplay-VariableFont_wght.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Centurygothics';
+  src: url('./assets/fonts/centurygothic.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 .gistesy-font {
   font-family: 'Gistesy', cursive;
+}
+
+.PlayfairDisplay-font {
+  font-family: 'PlayfairDisplay', cursive;
+}
+
+.Centurygothics-font {
+  font-family: 'Centurygothics', cursive;
 }
