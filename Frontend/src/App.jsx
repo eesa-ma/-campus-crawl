@@ -1,4 +1,4 @@
-import Header from "./components/header"
+import Header from "./components/Header"
 import Videobanner from "./components/Videobanner"
 
 function App() {
