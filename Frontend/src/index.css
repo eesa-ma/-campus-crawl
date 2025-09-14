@@ -1,1 +1,13 @@
 @import "tailwindcss";
+
+@font-face {
+  font-family: 'Gistesy';
+  src: local('Gistesy'), url('/src/assets/font/Gistesy.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+.gistesy-font {
+  font-family: 'Gistesy', sans-serif;
+}
