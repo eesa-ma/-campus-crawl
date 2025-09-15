@@ -1,7 +1,7 @@
 import Slider from "react-slick";
-import Banner2 from "../../components/Banner2.jsx";
-import Banner3 from "../../components/Banner3.jsx";
-import Videobanner from "../../components/Videobanner.jsx";
+import Banner2 from "../components/Home/Banner2.jsx";
+import Banner3 from "../components/Home/Banner3.jsx";
+import Videobanner from "../components/Home/Videobanner.jsx";
 
 function Home() {
     // Settings for the slider

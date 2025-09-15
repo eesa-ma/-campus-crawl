@@ -1,5 +1,5 @@
 
-import bannervideo from "../assets/banner/banner3video.mp4"
+import bannervideo from "../../assets/banner/banner3video.mp4"
 
 function Banner3() {
     return (
