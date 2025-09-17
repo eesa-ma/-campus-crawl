@@ -7,6 +7,7 @@ import Banner3 from "../components/Home/Banner3.jsx";
 import Videobanner from "../components/Home/Videobanner.jsx";
 import UniversityList from "../components/Home/UniversityList.jsx";
 import Footer from "../components/Footer.jsx";
+import Works from "../components/Home/Works.jsx";
 
 function Home() {
     // Settings for the slider
@@ -38,6 +39,7 @@ function Home() {
                 </Slider>
             </div>
             <UniversityList />
+            <Works />
             <Footer />
         </>
     );
