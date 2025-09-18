@@ -30,7 +30,7 @@ function UniversityList() {
 
     return(
         <div className="p-8 Centurygothics-font">
-            <h1 className="text-5xl  md:text-7xl font-bold text-center mb-8 ">Explore Top Universities</h1>
+            <h1 className="text-4xl  md:text-7xl font-bold text-center mb-8 ">Explore Top Universities</h1>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
                 {Universities.map((uni, index) => (
                     <div key={index} className="bg-white rounded-lg shadow-md overflow-hidden transform hover:scale-105 transition-transform duration-300">
